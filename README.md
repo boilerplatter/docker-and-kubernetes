@@ -1,7 +1,7 @@
 # docker-and-kubernetes
 
 KU ACM workshop
-2019-02-05
+2020-02-05
 Lawrence, KS
 
 (I will push additional exercises to this GitHub repository in advance of the workshop, so bookmark it!)
