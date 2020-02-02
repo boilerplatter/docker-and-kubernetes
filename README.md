@@ -32,7 +32,6 @@ Some large downloads are involved: do these steps in advance!
     done
 
     # I have no Windows machine or partition to test in right now, but the following might work there:
-
     for %i in (bash gcc python:3.7-slim) do docker pull %i
 
     # Please submit a PR to fix that command if it's broken :)
@@ -44,13 +43,12 @@ Some large downloads are involved: do these steps in advance!
     git clone https://github.com/boilerplatter/docker-and-kubernetes.git
 
     # or if you have SSH keys set up with GitHub:
-
     git clone git@github.com:boilerplatter/docker-and-kubernetes.git
     ```
 
 1. (optional) Install VS Code
 
-   I will be running demos in VS Code, and having it installed locally will allow you to exactly duplicate the tool setup I use, and acquire some handy Dockerfile and Kubernetes/YAML plugins en route.
+   I will be running demos in VS Code, and having it installed locally will allow you to exactly duplicate the screen layout I use, and acquire some handy Dockerfile and Kubernetes/YAML plugins en route.
 
    [Download from visualstudio.com](https://code.visualstudio.com/download)
 
