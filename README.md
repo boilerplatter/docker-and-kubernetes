@@ -18,8 +18,8 @@ Some large downloads are involved: do these steps in advance!
     - [Linux](https://docs.docker.com/install/#server)
 
 1. Install Kubernetes
-    - [Mac (already installed; just enable)](https://docs.docker.com/docker-for-mac/#kubernetes)
-    - [Windows (already installed; just enable)](https://docs.docker.com/docker-for-windows/#kubernetes)
+    - [Mac (already installed with Docker; just enable)](https://docs.docker.com/docker-for-mac/#kubernetes)
+    - [Windows (already installed with Docker; just enable)](https://docs.docker.com/docker-for-windows/#kubernetes)
     - [Linux (recommend microk8s)](https://microk8s.io/#get-started)
 
 1. Prime your local Docker cache (to not burn down JAYHAWK wifi during workshop)
@@ -62,4 +62,5 @@ Some large downloads are involved: do these steps in advance!
   help real-world teams of developers and operators do
 - ⚖️ Discuss some of the tradeoffs that are involved (there are always tradeoffs!)
 - 🎽 Gain experience creating and running containers with Docker, and managing them in Kubernetes
+  - (this is very relevant experience for many internships and jobs)
 - 🗺️ Know ~~the right words to google~~ how to keep learning after this workshop
