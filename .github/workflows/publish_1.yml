@@ -9,6 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Publish to Registry
+      working-directory: 1_hello-docker
       uses: elgohr/Publish-Docker-Github-Action@master
       with:
         name: senorflor/hello-docker
